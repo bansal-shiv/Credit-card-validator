@@ -1,1 +1,2 @@
 # Credit-card-validator
+C++ was used to create the Credit Card Validator application. It uses the Luhn algorithm to determine whether a credit card number is legitimate or not. Luhn's method is a straightforward checksum formula that can be used to verify a variety of identifications, including credit card numbers, IMEI numbers, and more, although it is most commonly used to verify credit card numbers.
